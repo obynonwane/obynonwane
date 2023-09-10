@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Algoralign](https://algoralign.com/)
 
-- 🌱 I’m currently learning **Blockchain, DevOps**
+- 🌱 I’n currently interested in **Blockchain, DevOps**
 
 - 👨‍💻 All of my projects are available at [https://obinna.dev/](https://obinna.dev/)
 
