@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Obinna Johnson</h1>
-<h3 align="center"> I enjoy being challenged and develop solutions that require me to work outside my comfort and knowledge set. I’m interested in research and engineering, When driven by passion, making stuff is just fun.</h3>
+<h4 align="center"> I enjoy being challenged and develop solutions that require me to work outside my comfort and knowledge set. I’m interested in research and engineering, When driven by passion, making stuff is just fun.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obynonwane&label=Profile%20views&color=0e75b6&style=flat" alt="obynonwane" /> </p>
 
