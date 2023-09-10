@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/darealobinna" target="blank"><img src="https://img.shields.io/twitter/follow/darealobinna?logo=twitter&style=for-the-badge" alt="darealobinna" /></a> </p>
 
-- 🔭 I’m currently working on [Algoralign](https://algoralign.com/)
+- 🔭 I’m currently working on [algoralign](https://algoralign.com/)
 
-- 🌱 I’n currently interested in **Blockchain, DevOps**
+- 🌱 I’m currently interested in **Blockchain, DevOps**
 
 - 👨‍💻 All of my projects are available at [https://obinna.dev/](https://obinna.dev/)
 
-- 💬 Ask me about **MEARN Stack, Blockchain**
+- 💬 Ask me about **Distributed, Decentralised systems and Blockchain**
 
 - 📫 How to reach me **obinna.innocent.johnson@gmail.com**
 
