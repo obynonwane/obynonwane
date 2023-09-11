@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/darealobinna" target="blank"><img src="https://img.shields.io/twitter/follow/darealobinna?logo=twitter&style=for-the-badge" alt="darealobinna" /></a> </p>
 
-- 🔭 I’m currently working on [algoralign](https://algoralign.com/)
+- 🔭 I’m currently working on [algoralign](ht)
 
 - 🌱 I’m currently interested in **Blockchain, DevOps**
 
